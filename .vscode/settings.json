@@ -23,5 +23,6 @@
   },
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
-  }
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
 }
